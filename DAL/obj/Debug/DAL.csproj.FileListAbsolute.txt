@@ -1,0 +1,4 @@
+c:\Users\spalmer\documents\visual studio 2013\Projects\DALTest\DAL\bin\Debug\DAL.dll
+c:\Users\spalmer\documents\visual studio 2013\Projects\DALTest\DAL\bin\Debug\DAL.pdb
+c:\Users\spalmer\documents\visual studio 2013\Projects\DALTest\DAL\obj\Debug\DAL.dll
+c:\Users\spalmer\documents\visual studio 2013\Projects\DALTest\DAL\obj\Debug\DAL.pdb
